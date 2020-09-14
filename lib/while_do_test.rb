@@ -6,7 +6,7 @@
 #end
 
 count = 0
-while count <3 do
+while count <10 do
   puts "I am #{count}, I love to count"
   count+=2
 end
